@@ -15,7 +15,7 @@
 - https://nottinghillcondominiums.com/
 - http://westhillsatthewillows.ca/
 - https://libertymarkettower.com/
-- https://dylancondosstg.wpengine.com/
+- https://dylancondos.com/
 - http://xocondos2stg.wpengine.com/
 - https://hangtoughstg.wpengine.com/
 - https://queensburygates.com/
