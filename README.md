@@ -29,4 +29,4 @@
 
 ## CodeIgniter
 
-- http://meetfun.com.br/login
+- http://meetfun.com.br
