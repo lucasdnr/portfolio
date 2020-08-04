@@ -6,7 +6,7 @@
 - https://31condominiums.com/
 - https://44broadway.ca/
 - https://brittluxuryresidences.com/
-- http://cachetbradford.staging.wpengine.com/
+- https://cachetbradford.com/
 - https://cachetmounthope.com/
 - https://danielsomg2.com/
 - http://danielsmpv.staging.wpengine.com/
