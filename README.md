@@ -20,6 +20,7 @@
 - https://hangtoughstg.wpengine.com/
 - https://queensburygates.com/
 - http://rosegardencity.staging.wpengine.com/
+- http://lawrence250.staging.wpengine.com/
 
 ## Touch Screens
 
