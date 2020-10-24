@@ -21,6 +21,7 @@
 - https://queensburygates.com/
 - http://rosegardencity.staging.wpengine.com/
 - http://lawrence250.staging.wpengine.com/
+- https://clinicaseiko.com.br/
 
 ## Touch Screens
 
