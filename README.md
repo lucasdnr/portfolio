@@ -3,6 +3,7 @@
 
 ## Wordpress
 
+- https://clinicaseiko.com.br/
 - https://31condominiums.com/
 - https://44broadway.ca/
 - https://brittluxuryresidences.com/
@@ -21,7 +22,6 @@
 - https://queensburygates.com/
 - http://rosegardencity.staging.wpengine.com/
 - http://lawrence250.staging.wpengine.com/
-- https://clinicaseiko.com.br/
 
 ## Touch Screens
 
